@@ -5,7 +5,7 @@
 5 hoge
 6 神山変えた！
 7 hoge
-9 hoge
+9 神山
 8 hoge
 10 hoge
 11 hoge
